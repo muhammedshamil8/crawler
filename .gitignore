@@ -1,0 +1,17 @@
+# Binaries
+crawler
+*.exe
+*.exe;
+*.dll
+*.so
+*.dylib
+
+# Test & Output
+*.test
+*.out
+report.json
+
+# IDE & OS files
+.DS_Store
+.idea/
+.vscode/
