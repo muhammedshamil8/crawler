@@ -56,7 +56,7 @@ crawler/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/muhammeshamil8/crawler.git
+   git clone https://github.com/muhammedshamil8/crawler.git
    cd crawler
    ```
 

@@ -1,4 +1,4 @@
-module github.com/muhammeshamil8/crawler
+module github.com/muhammedshamil8/crawler
 
 go 1.26.3
 
